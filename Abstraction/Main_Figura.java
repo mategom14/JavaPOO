@@ -2,7 +2,7 @@ package Abstraction;
 
 import java.util.ArrayList;
 
-public class Main_abs {
+public class Main_Figura {
     public static void main(String[] args) {
         ArrayList<Figura> figuras = new ArrayList<>();
 
