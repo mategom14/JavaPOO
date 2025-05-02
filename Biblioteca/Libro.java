@@ -35,5 +35,8 @@ public class Libro {
                "\nISBN: " + ISBN +
                "\nAño de publicación: " + añoPublicacion;
     }
-    
+
+    public Object getAutor() {
+        return autor;
+    }
 }
