@@ -1,4 +1,4 @@
-package GUI_Java;
+package GUI_Java_Cristian;
 
 import javax.swing.*;
 import java.awt.Color;

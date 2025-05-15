@@ -1,4 +1,4 @@
-package GUI_Java;
+package GUI_Java_Cristian;
 
 public class Aplicacion {
     public static void main(String[] args) {
